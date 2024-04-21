@@ -1,33 +1,37 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Packages/manifest.json
+    m_FilePath: C:/Users/antan/OneDrive/Stalinis kompiuteris/Common-Unity-Error-Test/2D
+      Movement/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638472247530000000
-    m_Hash: 4108879749
+      ticks: 638492827717649984
+    m_Hash: 2284154526
   m_LockFileStatus:
-    m_FilePath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Packages/packages-lock.json
+    m_FilePath: C:/Users/antan/OneDrive/Stalinis kompiuteris/Common-Unity-Error-Test/2D
+      Movement/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638472247580000000
-    m_Hash: 982925453
+      ticks: 638492828061875777
+    m_Hash: 51140818
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Packages
-m_EditorVersion: 2022.3.17f1 (4fc78088f837)
+m_ProjectPath: C:/Users/antan/OneDrive/Stalinis kompiuteris/Common-Unity-Error-Test/2D
+  Movement/Packages
+m_EditorVersion: 2023.1.16f1 (e5ad54273a6f)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -63,6 +67,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -80,12 +86,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -136,6 +149,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -153,12 +168,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.ads@4.4.2
   testable: 0
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ads@4.4.2
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ads@4.4.2
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -253,6 +275,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638161229410000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ads@4.4/manual/index.html
@@ -270,12 +294,22 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"gameService":{"groupIndex":4,"groupName":"Monetization","genericDashboardUrl":"https://unityads.unity3d.com/help/index","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/monetization/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid","configurePath":"Project/Services/Ads"},"supportedPlatforms":["Android","iOS"],"changelog":"##
+    **Unity**\n - Remove redirect pop-ups directing users to Unity Mediation.\n##
+    **Android**\n### **Bugfix**\n- Fixed a NullPointerException when Application
+    Context is null for cached directory file path."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ai.navigation@1.1.5
   testable: 0
   isDirectDependency: 1
   version: 1.1.5
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ai.navigation@1.1.5
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ai.navigation@1.1.5
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -305,6 +339,7 @@ m_ResolvedPackages:
     - 2.0.0-pre.4
     - 2.0.0
     compatible:
+    - 1.1.4
     - 1.1.5
     recommended: 1.1.5
     deprecated: []
@@ -324,6 +359,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638319373850000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html
@@ -334,19 +371,27 @@ m_ResolvedPackages:
     revision: a905e1ab41c8afae1a75688ceb3b4dfa1686ea75
     path: 
   unityLifecycle:
-    version: 1.1.5
+    version: 1.1.4
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Long warning popping up when user starts
+    playmode while editing a prefab that contains NavMesh components ([NAVB-47](https://issuetracker.unity3d.com/product/unity/issues/guid/NAVB-47))"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.analytics@3.8.1
   testable: 0
   isDirectDependency: 1
   version: 3.8.1
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.analytics@3.8.1
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.analytics@3.8.1
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -355,50 +400,13 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: The Unity Analytics Library contains the Analytics Event Tracker component,
     the Data Privacy plug-in, and the Standard Events API.
   status: 0
   errors: []
   versions:
     all:
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.7
-    - 0.0.8
-    - 0.0.9
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.16
-    - 0.0.17
-    - 0.0.19
-    - 2.0.5
-    - 2.0.11
-    - 2.0.13
-    - 2.0.14
-    - 2.0.15
-    - 2.0.16
-    - 3.0.5
-    - 3.0.9
-    - 3.1.1
-    - 3.2.0
-    - 3.2.2
-    - 3.2.3
-    - 3.3.0
-    - 3.3.2-preview
-    - 3.3.2
-    - 3.3.4
-    - 3.3.5
-    - 3.4.0
-    - 3.5.3
-    - 3.6.11
-    - 3.6.12
-    - 3.7.1
     - 3.8.1
     compatible:
     - 3.8.1
@@ -421,7 +429,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.0
+    version: 1.11.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -440,8 +448,10 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637789683740000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -457,12 +467,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.collab-proxy@2.2.0
   testable: 0
   isDirectDependency: 1
   version: 2.2.0
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.collab-proxy@2.2.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.collab-proxy@2.2.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -551,9 +568,10 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.1
     compatible:
+    - 2.1.0
     - 2.2.0
     - 2.3.1
-    recommended: 2.2.0
+    recommended: 2.1.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -581,6 +599,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638326189440000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.2/manual/index.html
@@ -591,19 +611,38 @@ m_ResolvedPackages:
     revision: 33c8fba1793946be3c73f738edf70db0b5546afd
     path: 
   unityLifecycle:
-    version: 2.2.0
+    version: 2.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Unity Version Control is now available as part of the
+    Version Control Package! You can enable Unity Version Control via Window > Unity
+    Version Control to get started!\nIf you have previously used the Unity Asset
+    Store Plastic SCM plug-in, you can now simply use this package. Make sure you
+    delete the plug-in from your project.\nRemoving a previously added Plastic SCM
+    Asset Store Plug-In:\n\n- Select the PlasticSCM folder in the Assets\\Plugins
+    folder on the Project tab, then click Edit > Delete\n- Close the Unity Editor
+    and open your project again. You will find the Plastic SCM menu item in the Window
+    menu.\n\n### Added\n\n- Added button for organization owner/admins to upgrade
+    to DevOps subscription.\n- Included new decorators for retained & locked files.\n\n###
+    Changed\n\n- Updated description in the package.json, including an updated link
+    to get started.\n\n### Fixed\n\n- Fixed failed operations when the workspace
+    is already locked."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ide.rider@3.0.27
   testable: 0
   isDirectDependency: 1
   version: 3.0.27
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ide.rider@3.0.27
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ide.rider@3.0.27
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -663,6 +702,8 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     compatible:
+    - 3.0.25
+    - 3.0.26
     - 3.0.27
     - 3.0.28
     recommended: 3.0.28
@@ -672,7 +713,7 @@ m_ResolvedPackages:
     version: 1.0.6
   resolvedDependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   keywords: []
   registry:
     id: main
@@ -683,6 +724,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638373878680000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
@@ -693,19 +736,29 @@ m_ResolvedPackages:
     revision: 1d471c19a7f21834ae5b8d0358fd6f9b242c1ee8
     path: 
   unityLifecycle:
-    version: 3.0.27
+    version: 3.0.25
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- Restore the ability to select Rider installation
+    from the custom location\n- Fix possible extra project regeneration on moving
+    focus from Rider to Unity\n- Improve performance of code generation for very
+    large projects"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ide.visualstudio@2.0.22
   testable: 0
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -747,6 +800,7 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     compatible:
+    - 2.0.21
     - 2.0.22
     recommended: 2.0.22
     deprecated: []
@@ -755,9 +809,9 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.33
+    version: 1.3.9
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -772,6 +826,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638326061910000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
@@ -782,19 +838,31 @@ m_ResolvedPackages:
     revision: 700b44077345e97d37d464ff25507638983aed64
     path: 
   unityLifecycle:
-    version: 2.0.22
+    version: 2.0.21
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Integration:\n\n- Add support for `XDG_DATA_DIRS` and
+    `.desktop` files on Linux for `VS Code` discovery.\n- Use compile-time platform-specifics
+    instead of using runtime conditions.\n\nProject generation:\n\n- Suppress `USG0001`
+    warnings.\n- Mark referenced assemblies as private (to not copy extra files to
+    output directory when building).\n- Add Unity capability to SDK-Style projects.\n-
+    Prevent circular dependency errors with SDK-Style projects."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -825,8 +893,20 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     compatible:
+    - 1.0.2
+    - 1.0.3
+    - 1.0.7
+    - 1.1.0
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
     - 1.2.5
-    recommended: 1.2.5
+    recommended: 
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -840,6 +920,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637800255360000000
   documentationUrl: 
@@ -850,19 +932,27 @@ m_ResolvedPackages:
     revision: b0740c80bfc2440527c317109f7c3d9100132722
     path: 
   unityLifecycle:
-    version: 1.2.5
+    version: 
     nextVersion: 
     recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
+    isDeprecated: 1
+    deprecationMessage: Visual Studio Code package is not supported anymore. You
+      can continue to use it, but we won't provide any update anymore.
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.purchasing@4.9.3
   testable: 0
   isDirectDependency: 1
   version: 4.9.3
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.purchasing@4.9.3
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.purchasing@4.9.3
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -992,7 +1082,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.0
+    version: 1.11.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
   keywords:
@@ -1008,6 +1098,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 0
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638223389530000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.9/manual/index.html
@@ -1025,12 +1117,33 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.test-framework@1.1.33
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"gameService":{"groupIndex":4,"groupName":"Monetize","configurePath":"Project/Services/In-App
+    Purchasing","genericDashboardUrl":"https://dashboard.unity3d.com/","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"},"supportedPlatforms":["Android","iOS"],"changelog":"###
+    Changed\n- Analytics events are now sent when a purchase has been confirmed (`ConfirmPendingTransaction`
+    or `ProcessPurchase` returning `PurchaseProcessingResult.Complete`). This will
+    improve the accuracy of revenue tracking by no longer considering pending purchases.\n-
+    Updated `Product.transactionID`, `Product.hasReceipt` and `Product.receipt` documentation
+    to include pending transaction use cases.\n- Updated samples to use `IDetailedStoreListener`
+    and its improved `OnPurchaseFailed` callback.\n- Added a new `RefreshAppReceipt(Action<string>
+    successCallback, Action<string> errorCallback)` callback containing more information
+    when the errorCallback is invoked in `IAppleExtensions : IStoreListener`.\n\n###
+    Fixed\n- `OnPurchaseFailed` will no longer log an error when there''s only new
+    IAP Buttons with no IAP Listener.\n- Apple - Improved the accuracy of `Product.appleProductIsRestored`
+    when using the restore transaction button. These will now correctly be flagged
+    as true.\n- Codeless - `OnPurchaseFailed(Product, PurchaseFailureDescription)`
+    callback was not invoked in `IAP Listener`"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.test-framework@1.3.9
   testable: 0
   isDirectDependency: 1
-  version: 1.1.33
+  version: 1.3.9
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.test-framework@1.3.9
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1039,7 +1152,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
-  type: asset
+  type: assets
   description: Test framework for running Edit mode and Play mode tests in Unity.
   status: 0
   errors: []
@@ -1092,41 +1205,34 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
-    - 1.1.33
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.7
-    - 1.3.8
     - 1.3.9
     - 1.4.0
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-    recommended: 1.1.33
+    recommended: 1.3.9
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -1143,29 +1249,44 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637938212700000000
-  documentationUrl: 
+  datePublishedTicks: 638283169810000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 34a4d423d64926635eb36d3bb86276179cc186e1
+    revision: 5c8a1448cee4d7607be0d60dceb66703b0cfe016
     path: 
   unityLifecycle:
-    version: 1.1.33
+    version: 1.3.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- By using the editor command line new argument `-randomOrderSeed
+    x` you can run the tests in a randomized order, where x is an integer different
+    from 0. If a new test is added in the project the random order passing the same
+    seed will be kept, and the new test will be placed in the random list accordigly.\n-
+    Fix for WebGL platform target to close the browser tab when the run is completed.
+    \n- Added TestFileReferences.json to be generated on build step of the player,
+    so can be consumed later by Test runners to enrich data for run part."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1334,6 +1455,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -1351,12 +1474,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.timeline@1.7.6
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.timeline@1.8.2
   testable: 0
   isDirectDependency: 1
-  version: 1.7.6
+  version: 1.8.2
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.timeline@1.7.6
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.timeline@1.8.2
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1365,7 +1495,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: asset
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
@@ -1458,15 +1588,12 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     compatible:
-    - 1.7.6
-    - 1.8.0
-    - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
     - 1.8.5
     - 1.8.6
-    recommended: 1.7.6
+    recommended: 1.8.6
     deprecated: []
   dependencies:
   - name: com.unity.modules.director
@@ -1501,29 +1628,40 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638326112840000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
+  datePublishedTicks: 638143790900000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: 02f49ada64a9f88044207cf42ba407dc634ef8e6
+    revision: a60d9f471eee76056ecbc8c94f5bec263478a9c0
     path: 
   unityLifecycle:
-    version: 1.7.6
+    version: 1.8.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n\n- Fixed issue where previewing the Timeline
+    would create prefab property modifications\n- Fixed issue where `ClipEditor.OnClipChanged`
+    was not invoked when changing the object assigned to a `ExposedReference<UnityEngine.Object>`."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1544,6 +1682,7 @@ m_ResolvedPackages:
     - 1.0.0
     - 3.0.0-exp.1
     - 3.0.0-exp.3
+    - 3.0.0-exp.4
     compatible:
     - 1.0.0
     recommended: 1.0.0
@@ -1572,6 +1711,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1589,12 +1730,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.xr.legacyinputhelpers@2.1.10
   testable: 0
   isDirectDependency: 1
   version: 2.1.10
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1603,7 +1751,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: XR
-  type: asset
+  type: 
   description: This package includes the tracked pose driver for the legacy input
     system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
     Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
@@ -1614,30 +1762,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0
-    - 1.0.2
-    - 1.0.3
-    - 1.3.1
-    - 1.3.2
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.11
-    - 2.0.1
-    - 2.0.2
-    - 2.0.4
-    - 2.0.6
-    - 2.0.8
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.6
-    - 2.1.7
-    - 2.1.8
-    - 2.1.9
     - 2.1.10
     compatible:
     - 2.1.10
@@ -1674,8 +1798,10 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637958908030000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -1691,12 +1817,22 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Fixed a build error about a mismatch of the serialized
+    fields between Editor and Player due to `m_PoseProviderComponent`. That field
+    and its type is now always included, not just when `ENABLE_AR` or `ENABLE_VR`
+    are defined."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1729,6 +1865,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1746,12 +1884,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1783,6 +1928,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1800,12 +1947,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1838,6 +1992,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1855,12 +2011,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1893,6 +2056,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1910,12 +2075,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1948,6 +2120,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1965,12 +2139,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2007,6 +2188,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2024,12 +2207,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2070,6 +2260,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2087,12 +2279,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2103,8 +2302,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 'The ImageConversion module implements the ImageConversion class which
-    provides helper methods to convert images from and to PNG, JPEG or EXR formats.
-    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
+    provides helper methods for converting image data. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
   status: 0
   errors: []
   versions:
@@ -2126,6 +2324,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2143,12 +2343,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2181,6 +2388,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2198,12 +2407,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2236,6 +2452,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2253,12 +2471,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2291,6 +2516,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2308,12 +2535,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2346,6 +2580,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2363,12 +2599,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2401,6 +2644,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2418,12 +2663,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2460,6 +2712,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2477,12 +2731,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2515,6 +2776,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2532,12 +2795,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2578,6 +2848,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2595,12 +2867,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2636,6 +2915,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2653,12 +2934,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2691,6 +2979,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2708,12 +2998,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2758,6 +3055,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2775,12 +3074,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2813,6 +3119,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2830,12 +3138,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2876,6 +3191,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2893,12 +3210,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2931,6 +3255,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2948,12 +3274,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2994,6 +3327,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3011,12 +3346,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3057,6 +3399,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3074,12 +3418,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3120,6 +3471,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3137,12 +3490,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3199,6 +3559,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3216,12 +3578,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3258,6 +3627,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3275,12 +3646,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3325,6 +3703,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3342,12 +3722,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3394,6 +3781,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3411,12 +3800,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3449,6 +3845,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3466,12 +3864,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3516,6 +3921,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3533,12 +3940,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3575,6 +3989,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3592,12 +4008,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ext.nunit@1.0.6
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.ext.nunit@2.0.3
   testable: 0
   isDirectDependency: 0
-  version: 1.0.6
+  version: 2.0.3
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.ext.nunit@2.0.3
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3607,8 +4030,8 @@ m_ResolvedPackages:
     url: 
   category: Libraries
   type: asset
-  description: Custom version of the nunit package build to work with Unity. Used
-    by the Unity Test Framework.
+  description: A custom version of NUnit used by Unity Test Framework. Based on NUnit
+    version 3.5 and works with all platforms, il2cpp and Mono AOT.
   status: 0
   errors: []
   versions:
@@ -3624,12 +4047,10 @@ m_ResolvedPackages:
     - 2.0.4
     - 2.0.5
     compatible:
-    - 1.0.6
-    - 2.0.2
     - 2.0.3
     - 2.0.4
     - 2.0.5
-    recommended: 1.0.6
+    recommended: 2.0.5
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -3646,29 +4067,40 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
+  datePublishedTicks: 637920402200000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
-    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+    revision: 2e41147762790f2a221103bff840a0138ca01b57
     path: 
   unityLifecycle:
-    version: 1.0.6
+    version: 2.0.3
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.services.core@1.12.0
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- Added unique test ID for repeated tests\r\n- Added
+    ContainKey and ContainValue constaints for dictionaries\r\n- Fixed unexpected
+    null exception when using EmptyConstraint with a null object"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.services.core@1.11.0
   testable: 0
   isDirectDependency: 0
-  version: 1.12.0
+  version: 1.11.0
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.services.core@1.12.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.services.core@1.11.0
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3712,15 +4144,10 @@ m_ResolvedPackages:
     - 1.10.1
     - 1.11.0
     - 1.12.0
-    - 1.12.1
-    - 1.12.2
-    - 1.12.4
     compatible:
+    - 1.11.0
     - 1.12.0
-    - 1.12.1
-    - 1.12.2
-    - 1.12.4
-    recommended: 1.12.4
+    recommended: 1.11.0
     deprecated: []
   dependencies:
   - name: com.unity.modules.unitywebrequest
@@ -3746,29 +4173,42 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638337628320000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.12/manual/index.html
+  datePublishedTicks: 638269929060000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.11/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: bb79575fc5daa804c44378ca264da0927e0d89da
+    revision: dd29ee68b03935e05ea9551c5cf1e9c5ec83d939
     path: 
   unityLifecycle:
-    version: 1.12.0
+    version: 1.11.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Added\n\n- Adding `IServerAccessToken` and `IServerEnvironmentId`
+    components for packages that want to support running operations in the context
+    of a server.\n- Adding `IAccessTokenObserver` component for packages to be notified
+    of changes to the `IAccessToken` value.\n\n### Fixed\n- Implement JsonConverters
+    to prevent NotImplementedException when converters are invoked by reflection"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.services.analytics@5.0.0
   testable: 0
   isDirectDependency: 0
   version: 5.0.0
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.services.analytics@5.0.0
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.services.analytics@5.0.0
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -3835,7 +4275,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.0
+    version: 1.11.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -3852,6 +4292,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638241542710000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@5.0/manual/index.html
@@ -3869,12 +4311,38 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"gameService":{"genericDashboardUrl":"https://dashboard.unity3d.com/analytics","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/events","projectDashboardUrlType":"OrganizationKeyAndProjectGuid","configurePath":"Project/Services/Analytics"},"supportedPlatforms":["Android","iOS","Linux","Mac","PC","Windows
+    8.1 Universal","Windows 10 Universal","WebGL"],"changelog":"### Added\n\n* New
+    initialization and consent flow. Please see the migration guide for more information:
+    https://docs.unity.com/analytics/en/manual/AnalyticsSDK5MigrationGuide\n\n###
+    Deprecated\n\n* The old initialization and consent flow should no longer be used
+    and will be removed in a future version of the SDK. Please see the migration
+    guide for more information: https://docs.unity.com/analytics/en/manual/AnalyticsSDK5MigrationGuide\n\n###
+    Changed\n\n* Updated `com.unity.services.core` dependency to 1.10.1\n\n### Breaking
+    Changes\n* The package no longer has a dependency on Newtonsoft.Json\n* The package
+    now has a dependency on the Unity JsonSerialize module (JsonUtility)\n* A number
+    of elements that were previously marked as Obsolete have now been removed\n\n###
+    Fixed\n\n* Analytics no longer blocks services initialization (`UnityServices.InitializeAsync`)
+    if there is no internet connection\n* It is now possible to opt in to data collection
+    during a session where the player has previously opted out (requires migration
+    to the new consent flow)\n* Application.persistentDataPath is no longer requested
+    on some platforms where access to the file system is denied by default\n* Event
+    buffer is now cleared on a wider variety of server responses\n* Events are more
+    eagerly cached to disk (if available) on shutdown to prevent data loss if game
+    is closed while offline\n* Data deletion requests are now sent using the custom
+    user ID if one is set, instead of always using the installation ID"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.nuget.newtonsoft-json@3.2.1
   testable: 0
   isDirectDependency: 0
   version: 3.2.1
   source: 1
-  resolvedPath: /Users/mac/Desktop/2D-Movement-master/2D Movement/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
+  resolvedPath: C:\Users\antan\OneDrive\Stalinis kompiuteris\Common-Unity-Error-Test\2D
+    Movement\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -3930,6 +4398,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638186318800000000
   documentationUrl: 
@@ -3947,3 +4417,10 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
+  assetStore:
+    productId: 

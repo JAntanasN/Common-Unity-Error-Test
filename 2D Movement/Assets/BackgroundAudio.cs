@@ -1,15 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Xml.Serialization;
 using UnityEngine;
 
 public class BackgroundAudio : MonoBehaviour
 {
-    public AudioClip backgroundMusic;
+    public AudioClip backgroundMusic; 
+    private AudioSource audioSource;
 
-    void Update()
+    void Start()
     {
-        var audio = gameObject.AddComponent<AudioSource>();
-        audio.clip = backgroundMusic;
-        audio.Play();
+        audioSource = GetComponent<AudioSource>();
+
+        audioSource.clip = backgroundMusic;
+
+        audioSource.loop = true;
+
+        audioSource.Play();
     }
 }
